@@ -79,3 +79,8 @@ body{
 .bg-black{
 	background-color: black;
 }
+
+/* FONT STYLE */
+.font-primary{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
